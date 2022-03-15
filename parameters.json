@@ -1,0 +1,5 @@
+{"ppk_table":"raw.phr_ppk",
+ "qms_table":"raw.phr_qms",
+ "plant_details":{"FTO_3":{"plant_code":"2003","batch_initials":"C"},
+                  "FTO_2":{"plant_code":"2002","batch_initials":"B"}}
+}
